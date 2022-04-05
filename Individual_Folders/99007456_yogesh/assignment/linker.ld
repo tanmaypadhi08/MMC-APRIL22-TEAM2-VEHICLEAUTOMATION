@@ -47,8 +47,3 @@ SECTIONS
 	}> SRAM
 }
 
-// Prototype of main
-
-
-
-}> SRAM AT> FLASH
