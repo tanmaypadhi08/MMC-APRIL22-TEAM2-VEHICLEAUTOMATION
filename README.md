@@ -7,16 +7,12 @@
 ## Folder structure ##
 | Folder | Description|
 | --- | --- |
-|1_Model | This folder contains final integerated model |
-| 2_Project_Documents | Document detailing project research, requirements and architechture|
-| 3_Compliance (License Based) | License standard <br>1. Metrics_Dashboard <br>2. Model_Advisor <br>3. Model_Coverage  |
-| 4_Test_Results| This folder contains all the test plans |
-| 5_Embedded_C_Executable(License Based) | This folder contains code generted from the model |
-| 6_Older_Models | This folder contains older versions of the integerated project  |
-| 7_Video | Integerated project working video |
-| 8_Scripts | Folder contains the MatLab scripts used |
-| All_team_project | Individual project folder of the team is maintained here |
-| Images | Contains the images used in the main repo |
+| 1_Requirements | Documents detailing requirements and research |
+| 2_Architecture | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_TestplanOutput | Documents with test plans and a video file that shows the simulation of the code |
+| 5_Report | Document describing all about the project |
+| 6_Images | Contains the images used in the project |
 | README| This file describes the overview of the project, all the required components to know about the project and collabators cotribution. |
 
 
@@ -29,7 +25,7 @@
 
 |Sl.No|     Name         |PS No      | Individual Feature                        | Collabarative implementation | Collabarator     |           
 | --- | ---------------- | :-------: | ---------------------------------------------- | ----------------------------- | ---------------- | 
-| 1. | Yogesh .S.V       | 99007456 | AMPLITUDE MODULATION                             |            No                | Individual       |                      
+| 1. | Yogesh .S.V       | 99007456 |                            |                            |        |                      
 
 --------------------------------------------------------------------
 ## Contribution to the team: ##
