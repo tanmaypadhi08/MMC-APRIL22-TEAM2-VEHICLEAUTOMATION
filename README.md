@@ -10,7 +10,7 @@
 | 1_Requirements | Documents detailing requirements and research |
 | 2_Architecture | Documents specifying design details |
 | 3_Implementation | All code and documentation |
-| 4_TestplanOutput | Documents with test plans and a video file that shows the simulation of the code |
+| 4_Testpl and Output | Documents with test plans and a video file that shows the simulation of the code |
 | 5_Report | Document describing all about the project |
 | 6_Images | Contains the images used in the project |
 | README| This file describes the overview of the project, all the required components to know about the project and collabators cotribution. |
