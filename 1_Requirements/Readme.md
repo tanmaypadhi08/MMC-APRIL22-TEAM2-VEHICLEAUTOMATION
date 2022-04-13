@@ -65,6 +65,9 @@ Transportation is literally described as a means of carrying people as well as g
 |1|DHT11 temp-sensor|The DHT11 is a commonly used Temperature and humidity sensor. The sensor comes with a dedicated NTC to measure temperature and an 8-bit microcontroller to output the values of temperature and humidity as serial data.|
 |2|Photo resister|Photoresistors, also known as light dependent resistors (LDR), are light sensitive devices most often used to indicate the presence or absence of light, or to measure the light intensity. In the dark, their resistance is very high,  but when the LDR sensor is exposed to light, the resistance drops decreses,|
 |3|7-led display|A seven segment display consists of seven LEDs arranged in the form of a squarish ‘8’ slightly inclined to the right and a single LED as the dot character. Different characters can be displayed by selectively glowing the required LED segments. Seven segment displays are of two types, common cathode and common anode.|
+|4|STM32F407GDISC|The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applications with the STM32F407 high performance microcontrollers with ARM cortex-M4 32-bit core.|
+|5|220 Ohm resistor|led needs a resistor  of around 100 ohm to 500k ohm|
+
 
 
 -------------------------------------------------------------------------
