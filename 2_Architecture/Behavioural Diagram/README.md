@@ -1,7 +1,5 @@
 # Behavioural Diagram
 
-# USE CASE
-
 # FLOW CHART
 ##  Auto indoor lighting system
 
