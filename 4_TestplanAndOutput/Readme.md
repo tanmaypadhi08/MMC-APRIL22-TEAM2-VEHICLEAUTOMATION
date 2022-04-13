@@ -13,4 +13,7 @@
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
-| 01 |  |  |  | ✅ |
+| 01 | If light intensity is high, the range of display must be between 0-3 | Light Intensity | Display 0 to 3 in 7-segment display | Display the desired value | ✅ |
+| 02 | If light intensity if medium, the range of display must be between 4-6 | Light Intensity | Display 4 to 6 in the 7-segment display | Display the desierd value | ✅|
+| 03 | If light intensity if less, the range of display must be between 7-9 | Light Intensity | Display 7 to 9 in the 7-segment display | Display the desierd value | ✅ |
+
