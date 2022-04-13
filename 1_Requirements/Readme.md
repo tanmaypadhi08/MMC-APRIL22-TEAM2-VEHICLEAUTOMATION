@@ -7,49 +7,57 @@
 4.  SWOT analysis  
 5.  Materials req (STM327407)
 6.  Requirements:
-   * HLR
-   * LLR
+     * HLR
+     * LLR
 
 ## 1. Introduction
-<h1 align="center"> Vehicle  Automation </h1>
+ Vehicle  Automation
 
-<h3 align = "center"> Vehicle  Automation emulates some of the  automated features of automobile that makes the tavel comfortable.  </h3>
+Vehicle  Automation emulates some of the  automated features of automobile that makes the tavel comfortable.
  
 <p align = "justify"> 
 	Transportation is literally described as a means of carrying people as well as goods and animals from one location to another. The importance of transportation is that it enables trade, commerce, and communication that establish civilization. It is transportation that acts as a link between manufacturing facilities and consumer markets. The global smart transportation market size to grow from USD 94.5 billion in 2020 to USD 156.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 10.6% during the forecast period. The four wheeled transportation are one of the popular mode of transport because of the comfort it provies. Some of the automated vehicle features like auto indoor light on/ off, auto indoor temperature regulation system and collision avoidance system are the features are been emulated using the STM controller. 
 </p>
+
+
 
 ## BENIFITS: 
 * Makes the travel comfortable.
 * Efficient use of features
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------
+
 ## FEATURES: ##
 ####
 1. Auto indoor lighting system
 2. Auto indoor temperature regulation system 
 ####
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------
 ## Future scope ##
 ### Implementing more features like auto navigator indication system. 
 
-####
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
 
 ## SWOT Analysis ##
 
-<p align="center">
-  <img height= 600 src="https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/3312dc41e01e5225af7d389ca5c3ec2737989bcf/Images/SWOT.jpg ">	
-</p>
 
-#
+  ------------------------------------------------------------------------
+
+
+
 ## 4W's and 1'H
-![](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/0a711a9b799823b3e5e7b876a061352f9a19ad3c/Images/5W1H%20Questions.jpg)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# REQUIREMENTS
+
+
+
+
+-------------------------------------------------------------------------
+
+# REQUIREMENTS  of Auto indoor lighting system and temperature regulation system .
+
 
 ## HIGH LEVEL REQUIREMENTS
 
