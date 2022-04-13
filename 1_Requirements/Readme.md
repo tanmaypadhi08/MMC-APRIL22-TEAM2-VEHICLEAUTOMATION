@@ -58,7 +58,7 @@ Transportation is literally described as a means of carrying people as well as g
 ----------------------
 --------------------------------
 ## MATERIALS  REQUIRED:
-| Sl.no | Description | Picture |
+| Sl.no  | component name |Description|
 |---- | -----| :----: |
 
 -------------------------------------------------------------------------
