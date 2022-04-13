@@ -70,6 +70,9 @@
 | ---- | ----- | ---------- |
 | HLR 1 | LLR 1 | To sense the light intensity |
 |       | LLR 2 | To display the digits according to the intenity of light on seven segment |
+|       | LLR 3 | Display the range 0-3 if the light intensity is more |
+|       | LLR 4 | Display the range 4-6 if the intensity if slightly less |
+|       | LLR 5 | Display the range 7-9 if the intensity is less |
 | HLR 2 | LLR 1 | Give the measurement of the object placed at a specific distance |
 |       | LLR 2 | Give the difference measurement of the distance at the current instant and previous instant |
 | HLR 3 | LLR 1 | To sense the temperature |
