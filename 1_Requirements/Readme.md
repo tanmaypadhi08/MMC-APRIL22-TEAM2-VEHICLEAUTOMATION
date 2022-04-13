@@ -12,8 +12,8 @@
 
 ## 1. Introduction
 <h1 align="center"> Vehicle  Automation </h1>
-<i><h3 align = "center"> Comfort your travel   </h3></i>
-<h3 align = "center"> Vehicle  Automation emulates some of the  auomated features of automobile that makes the tavel comfortable.  </h3>
+<
+<h3 align = "center"> Vehicle  Automation emulates some of the  automated features of automobile that makes the tavel comfortable.  </h3>
  
 <p align = "justify"> 
 	Transportation is literally described as a means of carrying people as well as goods and animals from one location to another. The importance of transportation is that it enables trade, commerce, and communication that establish civilization. It is transportation that acts as a link between manufacturing facilities and consumer markets. The global smart transportation market size to grow from USD 94.5 billion in 2020 to USD 156.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 10.6% during the forecast period. The four wheeled transportation are one of the popular mode of transport because of the comfort it provies. Some of the automated vehicle features like auto indoor light on/ off, auto indoor temperature regulation system and collision avoidance system are the features are been emulated using the STM controller. 
@@ -29,7 +29,6 @@
 ####
 1. Auto indoor lighting system
 2. Auto indoor temperature regulation system 
-3. Collision avoidance system
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,8 +62,7 @@
 |S.No| Requirements|
 |----|-------------|
 |01|Photoresistor is used to detect the door open or close condition|
-|02|Ultrasonic Sensor is used to determine the distance and avoid collision|
-|03|DHT11 is used to sense the temperature and alert the user |
+|02|DHT11 is used to sense the temperature and alert the user |
 
 ## LOW LEVEL REQUIREMENTS
 
