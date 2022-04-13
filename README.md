@@ -20,9 +20,6 @@
 
 
 ---------------------------------------------------------------------------------
-<p align="center">
-  <img width = 720 height= 300 src="https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/d0f74dd8b96382b8511aae83681ad3a071abb2e7/Images/ream.png">
-</p> <br>
 
 ## Team info:
 
@@ -32,7 +29,11 @@
 | 2. | C Shrivaishnavi        | 99007457 |                     
 | 3. | Danesh Patted          | 99007458 |  
 | 4. | Suvedha Renganathan    | 99007474 |                     
-| 5. | Tanmay Padhi           | 99007482 |                           
+| 5. | Tanmay Padhi           | 99007482 |     
+
+<p align="center">
+  <img width = 720 height= 300 src="https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/d0f74dd8b96382b8511aae83681ad3a071abb2e7/Images/ream.png">
+</p> <br>
 
 --------------------------------------------------------------------
 
