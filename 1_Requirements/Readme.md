@@ -54,7 +54,11 @@
 
 #
 ## 4W's and 1'H
-![]()
+
+<p align="center">
+  <img height= 600 src=" https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/0a711a9b799823b3e5e7b876a061352f9a19ad3c/Images/5W1H%20Questions.jpg ">	
+</p>
+![](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/0a711a9b799823b3e5e7b876a061352f9a19ad3c/Images/5W1H%20Questions.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # REQUIREMENTS
 
