@@ -70,7 +70,9 @@
 | ---- | ----- | ---------- |
 | HLR 1 | LLR 1 | To sense the light intensity |
 |       | LLR 2 | To display the digits according to the intenity of light on seven segment |
-| HLR 2 | LLR 1 | To sense the temperature |
+| HLR 2 | LLR 1 | Give the measurement of the object placed at a specific distance |
+|       | LLR 2 | Give the difference measurement of the distance at the current instant and previous instant |
+| HLR 3 | LLR 1 | To sense the temperature |
 |       | LLR 2 | Glow blue LED if the temperature is low |
 |       | LLR 3 | Glow Green LED if the temperature is medium |
 |       | LLR 4 | Glow Red LED if the temperature is high |
