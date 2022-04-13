@@ -19,11 +19,10 @@
 	Transportation is literally described as a means of carrying people as well as goods and animals from one location to another. The importance of transportation is that it enables trade, commerce, and communication that establish civilization. It is transportation that acts as a link between manufacturing facilities and consumer markets. The global smart transportation market size to grow from USD 94.5 billion in 2020 to USD 156.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 10.6% during the forecast period. The four wheeled transportation are one of the popular mode of transport because of the comfort it provies. Some of the automated vehicle features like auto indoor light on/ off, auto indoor temperature regulation system and collision avoidance system are the features are been emulated using the STM controller. 
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------## BENIFITS: ##  
-#### 
+## BENIFITS: 
 * Makes the travel comfortable.
 * Efficient use of features
-####
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FEATURES: ##
@@ -35,32 +34,27 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Future scope ##
+### Implementing more features like auto navigator indication system. 
+
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## MATERIALS  REQUIRED:
 | Sl.no | Description | Picture |
 |---- | -----| :----: |
-| 1 | Arduino UNO <br> <p align = "justify">  </p> | ![UNO](https://github.com/Y-133/M2-EmbSys/blob/e7265c727bc5bc9a7367844f674d3fcffba10c60/PROJECT/IMAGES/UNO.jfif) |
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1 | STM32 F407VG <br> <p align = "justify">  </p> | ![STM](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/3312dc41e01e5225af7d389ca5c3ec2737989bcf/Images/stm32.png)|
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## SWOT Analysis ##
-####
-**STRENGTHS**   
 
-**WEAKNESSES**  
+<p align="center">
+  <img height= 600 src="https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/3312dc41e01e5225af7d389ca5c3ec2737989bcf/Images/SWOT.jpg ">	
+</p>
 
-**OPPORTUNITIES**    
 
-**THREATS**  
-
-####
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-####
-4W's and 1'H
-
-![Wh](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/55ac2f46e728312a1197706b36da3f2a0e4891c8/Images/5W1H%20Questions.jpg)
-
-####
+#
+## 4W's and 1'H
+![]()
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # REQUIREMENTS
 
