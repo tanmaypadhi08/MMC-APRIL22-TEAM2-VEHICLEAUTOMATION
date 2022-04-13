@@ -3,6 +3,12 @@
 #
 ## Introduction: ##
 ### Vehicle Automation
+#
+
+<p align="center">
+  <img width = 1080 height= 480 src=" https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/db2bf2454a53aeaffe8695bd397d4ceab1d789be/Images/car2.jpg ">
+</p> <br>
+
 -------------------------------------------------------------------
 ## Folder structure ##
 | Folder | Description|
