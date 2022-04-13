@@ -16,6 +16,7 @@
 | 4_TestplanAndOutput | Documents with test plans and a video file that shows the simulation of the code |
 | 5_Report | Document describing all about the project |
 | Images | Contains the images used in the project |
+| Videos | Contains the video of individual model  |
 | Individual_Folders | This folder contains all team members individual folders|
 | List of Components| This folder contains the list of components provided along with the kit and controller board | 
 | README| This file describes the overview of the project, all the required components to know about the project and collabators cotribution. |
