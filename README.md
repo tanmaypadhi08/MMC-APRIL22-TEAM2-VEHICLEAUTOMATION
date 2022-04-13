@@ -29,10 +29,10 @@
 |Sl.No|     Name              | PS No    |        
 | --- | --------------------- | :------: |  
 | 1. | Yogesh .S.V            | 99007456 |                      
-| 2. | Tanmay Padhi           | 99007482 |                         
-| 3. | C Shrivaishnavi        | 99007457 |                     
+| 2. | C Shrivaishnavi        | 99007457 |                     
+| 3. | Danesh Patted          | 99007458 |  
 | 4. | Suvedha Renganathan    | 99007474 |                     
-| 5. | Danesh Patted          | 99007458 |                           
+| 5. | Tanmay Padhi           | 99007482 |                           
 
 --------------------------------------------------------------------
 
