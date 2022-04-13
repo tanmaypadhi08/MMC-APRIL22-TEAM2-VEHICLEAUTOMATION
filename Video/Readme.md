@@ -1,4 +1,4 @@
-##  Auto indoor lighting system
+##   Auto indoor temperature regulation system 
 
 
 
@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/98872514/163219661-aca28c78-555a-413f-
 
 
 ---------------------------------------------------------
-## Auto indoor temperature regulation system 
+## Auto indoor lighting system 
 
 
 
