@@ -23,13 +23,13 @@
 
 ## Team info:
 
-|Sl.No|     Name         |PS No      | Individual Feature  | Collabarative implementation | Collabarator     |           
-| --- | ---------------- | :-------: | ----------------------- | ------------------ | ---------------- | 
-| 1. | Yogesh .S.V       | 99007456 |                         |                            |        | 
-| 2. | Tanmay Padhi       | 99007482 |                         |                            |        |
-| 3. | C Shrivaishnavi      | 99007457 |                         |                            |        |
-| 4. | Suvedha Ranganathan       | 99007474 |                         |                            |        |
-| 5. | Danesh Patted       | 99007458 |                            |                            |        |
+|Sl.No|     Name              | PS No    |        
+| --- | --------------------- | :------: |  
+| 1. | Yogesh .S.V            | 99007456 |                      
+| 2. | Tanmay Padhi           | 99007482 |                         
+| 3. | C Shrivaishnavi        | 99007457 |                     
+| 4. | Suvedha Ranganathan    | 99007474 |                     
+| 5. | Danesh Patted          | 99007458 |                           
 
 --------------------------------------------------------------------
 
