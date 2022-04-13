@@ -44,6 +44,8 @@
 |---- | -----| :----: |
 | 1 | STM32 F407VG <br> <p align = "justify">  </p> | ![STM](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/3312dc41e01e5225af7d389ca5c3ec2737989bcf/Images/stm32.png)|
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **2** |**Arduino UNO** ![uno](https://user-images.githubusercontent.com/48876183/163139971-8e49de97-0331-42bf-a370-8a0ac404a4bd.jpg)
+|
 
 ## SWOT Analysis ##
 
