@@ -1,9 +1,3 @@
-<h1 align="center"> Remote Keyless Entry </h1>
-<h3 align = "center"> Remote keyless entry (RKE) system is a system designed to remotely lock or unlock and to access other function of the automobiles.  </h3>
-
-#
-![](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/9c9a3d42333b3b99e80e8f25c1c9e41914d33a1e/Images/car2.jpg)
-
 
 ## FOLDER STURCUTURE: ##
 
