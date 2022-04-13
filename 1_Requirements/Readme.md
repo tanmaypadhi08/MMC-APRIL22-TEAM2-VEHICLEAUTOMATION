@@ -73,9 +73,8 @@
 |       | LLR 3 | Display the range 0-3 if the light intensity is more |
 |       | LLR 4 | Display the range 4-6 if the intensity if slightly less |
 |       | LLR 5 | Display the range 7-9 if the intensity is less |
-| HLR 2 | LLR 1 | Give the measurement of the object placed at a specific distance |
-|       | LLR 2 | Give the difference measurement of the distance at the current instant and previous instant |
-| HLR 3 | LLR 1 | To sense the temperature |
+
+| HLR 2 | LLR 1 | To sense the temperature |
 |       | LLR 2 | Glow blue LED if the temperature is low |
 |       | LLR 3 | Glow Green LED if the temperature is medium |
 |       | LLR 4 | Glow Red LED if the temperature is high |
