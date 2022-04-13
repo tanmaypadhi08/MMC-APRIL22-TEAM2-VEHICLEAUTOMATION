@@ -12,7 +12,8 @@ https://user-images.githubusercontent.com/48876183/163221471-cde7249d-3e23-4d9e-
 
 ----------------------------------------
 
-## Both integrated video
+## Both integrated system
+
 
 ## Images of the output
 
