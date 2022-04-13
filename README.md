@@ -3,12 +3,8 @@
 #
 ## Introduction: ##
 ### Vehicle Automation
-#
-
-<p align="center">
-  <img width = 1080 height= 480 src=" https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/db2bf2454a53aeaffe8695bd397d4ceab1d789be/Images/car2.jpg ">
-</p> <br>
-
+# 
+The vehicle automation is all about automating some of the vechile features that makes the travel comfortable. The automated vehicle features like auto indoor light on/ off, auto indoor temperature regulation system and collision avoidance system are the features are been emulated using the STM controller. 
 -------------------------------------------------------------------
 ## Folder structure ##
 | Folder | Description|
@@ -16,9 +12,11 @@
 | 1_Requirements | Documents detailing requirements and research |
 | 2_Architecture | Documents specifying design details |
 | 3_Implementation | All code and documentation |
-| 4_Testpl and Output | Documents with test plans and a video file that shows the simulation of the code |
+| 4_TestplanAndOutput | Documents with test plans and a video file that shows the simulation of the code |
 | 5_Report | Document describing all about the project |
 | 6_Images | Contains the images used in the project |
+| Individual_Folders | This folder contains all team members individual folders|
+| List of Components| This folder contains the list of components provided along with the kit and controller board | 
 | README| This file describes the overview of the project, all the required components to know about the project and collabators cotribution. |
 
 
