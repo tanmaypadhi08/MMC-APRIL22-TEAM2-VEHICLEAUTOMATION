@@ -60,6 +60,8 @@
 |       | LLR 3 | Glow Green LED if the temperature is medium |
 |       | LLR 4 | Glow Red LED if the temperature is high |
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Test cases for High level Requirements
 
 | HLR_Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
