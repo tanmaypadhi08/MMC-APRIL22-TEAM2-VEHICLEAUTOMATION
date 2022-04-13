@@ -1,14 +1,14 @@
 # Table of content : #
 
-1. Introduction 
-2. Features
-	* Problem solving approach:
-3. 4W 1H
-4. SWOT analysis  
-5. Materials req (STM327407)
-6. Requirements:
-	* HLR
-	* LLR
+1.  Introduction 
+2.  Features
+    * Problem solving approach:
+3.  4W 1H
+4.  SWOT analysis  
+5.  Materials req (STM327407)
+6.  Requirements:
+   * HLR
+   * LLR
 
 ## 1. Introduction
 <h1 align="center"> Vehicle  Automation </h1>
