@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 <h1 align="center"> Vehicle  Automation </h1>
-<
+
 <h3 align = "center"> Vehicle  Automation emulates some of the  automated features of automobile that makes the tavel comfortable.  </h3>
  
 <p align = "justify"> 
