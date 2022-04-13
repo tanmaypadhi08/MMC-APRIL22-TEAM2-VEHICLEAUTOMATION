@@ -64,9 +64,15 @@
 |----|-------------|
 |01|Photoresistor is used to detect the door open or close condition|
 |02|Ultrasonic Sensor is used to determine the distance and avoid collision|
-|03||
+|03|DHT11 is used to sense the temperature and alert the user |
 
 ## LOW LEVEL REQUIREMENTS
 
-|S.No| Requirements|HLR|
-|----|-------------|---|
+| HLR | LLR | Requirements |
+| ---- | ----- | ---------- |
+| HLR 1 | LLR 1 | To sense the light intensity |
+|       | LLR 2 | To display the digits according to the intenity of light on seven segment |
+| HLR 2 | LLR 1 | To sense the temperature |
+|       | LLR 2 | Glow blue LED if the temperature is low |
+|       | LLR 3 | Glow Green LED if the temperature is medium |
+|       | LLR 4 | Glow Red LED if the temperature is high |
