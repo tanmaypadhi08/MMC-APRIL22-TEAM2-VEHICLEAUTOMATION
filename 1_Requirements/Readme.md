@@ -52,6 +52,8 @@ Transportation is literally described as a means of carrying people as well as g
 
 ## 4W's and 1'H
 
+![5W1H Questions](https://user-images.githubusercontent.com/98831772/163202727-b6cb9762-03c4-4390-abc3-3185e03c126e.jpg)
+
 
 
 
