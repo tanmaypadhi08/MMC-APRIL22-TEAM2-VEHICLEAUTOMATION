@@ -43,6 +43,8 @@ Transportation is literally described as a means of carrying people as well as g
 
 ## SWOT Analysis ##
 
+![SWOT](https://user-images.githubusercontent.com/98831772/163202470-c2dd058c-6a47-4d42-bd81-6c992a6220fd.jpg)
+
 
   ------------------------------------------------------------------------
 
