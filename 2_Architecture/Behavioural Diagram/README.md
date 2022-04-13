@@ -19,7 +19,7 @@
 
 ## 3) Auto indoor temperature regulation system 
 
-![WhatsApp Image 2022-04-13 at 8 00 18 PM](https://user-images.githubusercontent.com/98831772/163205164-92e22538-d701-4d40-b2d7-cc0a72bb01d8.jpeg)
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/98879965/163228472-e0a4fd68-477b-450a-96ee-aea32bc4a8d7.png)
 
 ------------------------------------------------
 
