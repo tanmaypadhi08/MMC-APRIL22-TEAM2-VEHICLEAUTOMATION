@@ -1,7 +1,6 @@
 # Table of content : #
 
 1. Introduction 
-	* Product research 
 2. Features
 	* Problem solving approach:
 3. 4W 1H
@@ -11,28 +10,27 @@
 	* HLR
 	* LLR
 
-
-## Product research ## 
-<h1 align="center"> RKE </h1>
-<i><h3 align = "center"> Remote Keyless Entry</h3></i>
-<h3 align = "center"> Remote keyless entry (RKE) system is a system designed to remotely lock or unlock or to access some features of automobiles.  </h3>
-
+## 1. Introduction
+<h1 align="center"> Vehicle  Automation </h1>
+<i><h3 align = "center"> Comfort your travel   </h3></i>
+<h3 align = "center"> Vehicle  Automation emulates some of the  auomated features of automobile that makes the tavel comfortable.  </h3>
+# 
 <p align = "justify"> 
-
+	Transportation is literally described as a means of carrying people as well as goods and animals from one location to another. The importance of transportation is that it enables trade, commerce, and communication that establish civilization. It is transportation that acts as a link between manufacturing facilities and consumer markets. The global smart transportation market size to grow from USD 94.5 billion in 2020 to USD 156.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 10.6% during the forecast period. The four wheeled transportation are one of the popular mode of transport because of the comfort it provies. Some of the automated vehicle features like auto indoor light on/ off, auto indoor temperature regulation system and collision avoidance system are the features are been emulated using the STM controller. 
 </p>
-####
-
-####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BENIFITS: ##  
 #### 
-
+* Makes the travel comfortable.
+* Efficient use of features
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FEATURES: ##
 ####
-
+1. Auto indoor lighting system
+2. Auto indoor temperature regulation system 
+3. Collision avoidance system
 ####
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +47,6 @@
 ####
 **STRENGTHS**   
 
-
 **WEAKNESSES**  
 
 **OPPORTUNITIES**    
@@ -61,17 +58,7 @@
 ####
 4W's and 1'H
 
-### What ###
-### Where ###
-* The console can be used at anywhere anytime by the user.
-### When ###
-* The product is expected to be delivered within the deadline mentioned.
-### Who ###
-* Common public who are interested in small and simple games. 
-## Why ##
-* Although it is not an essential product the projects aims to explore the possibilities to make a DIY gaming console using low cost controller.  
-### How ###
-* The gadget runs the game using the Arduino and controlled using the joystick and buttons. The console also has good display screen.
+![Wh](https://github.com/tanmaypadhi08/MMC-APRIL22-TEAM2-VEHICLEAUTOMATION/blob/55ac2f46e728312a1197706b36da3f2a0e4891c8/Images/5W1H%20Questions.jpg)
 
 ####
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
