@@ -99,3 +99,5 @@ Transportation is literally described as a means of carrying people as well as g
 |       | LLR 2 | Glow blue LED if the temperature is low |
 |       | LLR 3 | Glow Green LED if the temperature is medium |
 |       | LLR 4 | Glow Red LED if the temperature is high |
+| HLR 3 | LLR 1 | The distance must be displayed on the LCD Screen |
+|       | LLR 2 | The difference between the 2 consecutive records will be displayed after 2nd record |
