@@ -15,3 +15,7 @@
 |----|--------------------|------------|
 | 01 | HLR 1| The distance must be displayed on the LCD Screen |
 | 02 | HLR 2| The difference between the 2 consecutive records will be displayed after 2nd record |
+
+Contributed By 
+1. Tanmay Padhi - 99007482
+2. C. Sri
