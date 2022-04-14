@@ -21,8 +21,9 @@
 
 ### High Level Test Plan 
 
-|S.No|Requirements|
-|----|------------|
+| HLR Test ID | Description | Input | Excpected Output | Actual Output | Status |
+|-------------|-------------|-------|------------------|---------------|--------|
+|01|The distance must be displayed|
 
 Contributed By 
 1. Tanmay Padhi - 99007482
