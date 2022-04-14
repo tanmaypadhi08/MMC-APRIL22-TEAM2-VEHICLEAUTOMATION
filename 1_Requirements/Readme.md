@@ -82,8 +82,9 @@ Transportation is literally described as a means of carrying people as well as g
 
 |S.No| Requirements|
 |----|-------------|
-|01|Photoresistor is used to detect the door open or close condition|
+|01|Photoresistor is used to detect the door open or close condition |
 |02|DHT11 is used to sense the temperature and alert the user |
+|03|Ultrasonic Sensor is used to sense the distance of the approaching object|
 
 ## LOW LEVEL REQUIREMENTS
 
