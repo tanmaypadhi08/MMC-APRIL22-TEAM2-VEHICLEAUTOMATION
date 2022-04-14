@@ -106,3 +106,9 @@ Auto indoor temperature regulation system
 | 02 | If the temperature is medium, then the green LED with glow|Temperature| Green LED must glow|Green glows| ✅ |
 | 03 | If the temperature is high, then the red LED with glow|Temperature| Red LED must glow|Blue glows| ✅ |
 
+--------------------------
+##   Auto indoor temperature regulation system 
+
+https://user-images.githubusercontent.com/98872514/163219661-aca28c78-555a-413f-b267-95d910875299.mp4
+
+
