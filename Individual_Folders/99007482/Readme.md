@@ -23,7 +23,8 @@
 
 | HLR Test ID | Description | Input | Excpected Output | Actual Output | Status |
 |-------------|-------------|-------|------------------|---------------|--------|
-|01|The distance must be displayed|Distance of the object|Measurement of the object approaching|Distance of approaching object||
+| 01 |The distance must be displayed|Distance of the object|Measurement of the object approaching|Distance of approaching object|✅|
+| 02 |The difference must be displayed of two consecutive instant|Measurement of the object approaching|Distance of approaching object|✅|
 
 Contributed By 
 1. Tanmay Padhi - 99007482
