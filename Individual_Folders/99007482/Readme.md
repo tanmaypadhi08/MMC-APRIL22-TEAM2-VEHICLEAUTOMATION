@@ -27,5 +27,4 @@
 
 Contributed By 
 1. Tanmay Padhi - 99007482
-2. C Shrivaishnavi	99007457
-3. Yogesh S.V - 99007456
+
