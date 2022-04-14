@@ -18,3 +18,13 @@
 |----|--------------------|------------|
 | 01 | HLR 1| The distance must be displayed on the LCD Screen |
 | 02 | HLR 2| The difference between the 2 consecutive records will be displayed after 2nd record |
+
+### High Level Test Plan 
+
+|S.No|Requirements|
+|----|------------|
+
+Contributed By 
+1. Tanmay Padhi - 99007482
+2. C Shrivaishnavi	99007457
+3. Yogesh S.V - 99007456
