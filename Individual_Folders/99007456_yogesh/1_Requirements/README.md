@@ -39,7 +39,7 @@ People travel longer distance in a varied climatic condition. To make the travel
 ------------------------------------------------------------------------
 ## Materials required:
 |Sl.no | component name |Description|
-| ---- | -------------- | :----: |
+| ---- | -------------- | ---- |
 | 1 | DHT11 temp-sensor |The DHT11 is a commonly used Temperature and humidity sensor. The sensor comes with a dedicated NTC to measure temperature and an 8-bit microcontroller to output the values of temperature and humidity as serial data.|
 | 2 |   STM32F407GDISC |The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applications with the STM32F407 high performance microcontrollers with ARM cortex-M4 32-bit core.|
 | 3 | 220 Ohm resistor | LED needs a resistor  of around 100 ohm to 500k ohm | 
