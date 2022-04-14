@@ -27,9 +27,8 @@
 | 02 |The difference must be displayed of two consecutive instant|Distance of the object|Measurement of the difference of past 2 instant object approaching|Difference of past 2 instant of approaching object|✅|
 
 
-### Low Level Test Plan
 
-||
+
 
 Contributed By 
 1. Tanmay Padhi - 99007482
