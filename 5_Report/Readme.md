@@ -82,5 +82,5 @@
 | 03 | If light intensity if less, the range of display must be between 7-9 | Light Intensity | Display 7 to 9 in the 7-segment display | Display the desierd value | ✅ |
 | 04 | If the temperatuee is low, then the blue LED with glow|Temperature| Blue LED must glow|Blue glows| ✅ |
 | 05 | If the temperatuee is medium, then the green LED with glow|Temperature| Green LED must glow|Green glows| ✅ |
-| 04 | If the temperatuee is high, then the red LED with glow|Temperature| Red LED must glow|Blue glows| ✅ |
+| 06 | If the temperatuee is high, then the red LED with glow|Temperature| Red LED must glow|Blue glows| ✅ |
 
